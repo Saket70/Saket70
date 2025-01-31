@@ -1,8 +1,10 @@
+
+You said:
 # 💫 About Me:
 👯 I’m looking to collaborate on Web development projects using the MERN stack.  
 🤝 I’m looking for help with Advanced AI model fine-tuning and cloud-based data pipeline optimization.  
 🌱 I’m currently learning Neural Networks and Deep Learning.  
-💬 Ask me about JavaScript, C++, MERN stack, and Data Structures & Algorithms.  
+💬 Ask me about JavaScript, C++, and the MERN stack.  
 ⚡ Fun fact: I love exploring new technologies and experimenting with AI-based automation!  
 
 ---
@@ -22,21 +24,16 @@
 
 ---
 
-🔥 **Problem-Solving Experience:**  
-✔ Solving problems on LeetCode
-
----
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SaketShinde&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=SaketShinde&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaketShinde&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=Saket70&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Saket70&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saket70&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ---
 
 # 🔥 Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=SaketShinde&label=Profile+Views&color=blue&style=flat)  
+![Profile Views](https://komarev.com/ghpvc/?username=Saket70&label=Profile+Views&color=blue&style=flat)  
 
-[![](https://visitcount.itsvg.in/api?id=SaketShinde&icon=0&color=3)](https://visitcount.itsvg.in)  
+[![](https://visitcount.itsvg.in/api?id=Saket70&icon=0&color=3)](https://visitcount.itsvg.in)  
 
 ---
