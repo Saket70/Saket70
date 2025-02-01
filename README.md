@@ -1,5 +1,3 @@
-
-You said:
 # 💫 About Me:
 👯 I’m looking to collaborate on Web development projects using the MERN stack.  
 🤝 I’m looking for help with Advanced AI model fine-tuning and cloud-based data pipeline optimization.  
