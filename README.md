@@ -1,37 +1,110 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on Web development projects using the MERN stack.  
-🤝 I’m looking for help with Advanced AI model fine-tuning and cloud-based data pipeline optimization.  
-🌱 I’m currently learning Neural Networks and Deep Learning.  
-💬 Ask me about JavaScript, C++, and the MERN stack.  
-⚡ Fun fact: I love exploring new technologies and experimenting with AI-based automation!  
+<h1 align="center">Hi 👋, I'm Saket Shinde</h1>
+<h3 align="center">Data Analyst | SQL Specialist | GenAI Enthusiast</h3>
 
 ---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+## 🧠 About Me
+
+🎓 B.Tech in Computer Science  
+📊 Passionate about Data Analytics & solving business problems using data  
+📈 Strong in SQL, data querying, and analytical thinking  
+🤖 Built AI-powered applications using Retrieval-Augmented Generation (RAG)  
+🌱 Currently learning Machine Learning & Deep Learning fundamentals  
+
+💬 Ask me about:
+`SQL` | `Python` | `Data Analysis` | `Database Design` | `RAG Systems`
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Saket70&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saket70&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saket70&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+## 📊 Core Data Analytics Skills
+
+- Advanced SQL (Joins, Subqueries, CTEs, Window Functions)
+- Data Cleaning & Transformation
+- Exploratory Data Analysis (EDA)
+- Aggregations & KPI Analysis
+- Query Optimization & Indexing
+- Relational Database Design
+- Business Insight Extraction from Raw Data
 
 ---
 
-# 🔥 Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=Saket70&label=Profile+Views&color=blue&style=flat)  
+## 🛠️ Technical Skills
 
-[![](https://visitcount.itsvg.in/api?id=Saket70&icon=0&color=3)](https://visitcount.itsvg.in)  
+### 👨‍💻 Programming
+- Python
+- C++
+- Java
+- C
+
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+
+### 📊 Data & Analytics Tools
+- Pandas
+- NumPy
+- Matplotlib
+- Excel
+
+### 🤖 GenAI & AI
+- LangChain
+- Google Gemini API
+- HuggingFace Embeddings
+- Qdrant (Vector Database)
+- RAG Architecture
+- Prompt Engineering
+
+### ⚙️ Tools
+- Git & GitHub
+- Docker
+- Streamlit
+- REST APIs
 
 ---
+
+## 🚀 Featured Project
+
+### 🔍 AI-Based Documentation Q&A System (RAG)
+
+Designed and implemented a domain-specific AI system:
+
+- Scraped documentation using WebBaseLoader  
+- Applied semantic chunking (1000 size, 200 overlap)  
+- Converted text into embeddings  
+- Stored vectors in Qdrant with HNSW indexing  
+- Performed cosine similarity search for retrieval  
+- Integrated Gemini LLM for contextual answer generation  
+- Built interactive interface using Streamlit  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saket70&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saket70&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket70&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Career Focus
+
+- Strengthening Advanced SQL & Data Modeling  
+- Building Real-World Data Analytics Projects  
+- Expanding into Machine Learning & Applied AI  
+
+---
+
+## 📫 Connect With Me
+
+📧 saketshinde2029@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/saket-shinde-469232259/
+
+---
+
+⭐ Turning data into insights. Building AI with purpose.
