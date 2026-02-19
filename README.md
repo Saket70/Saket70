@@ -16,7 +16,7 @@
 
 **Languages:** Python, C++, Java, C  
 **Databases:** MySQL, PostgreSQL, MongoDB  
-**Data Tools:** Pandas, NumPy, Matplotlib, Excel  
+**Data Tools:** Pandas, NumPy, Matplotlib, Excel,PowerBI
 **AI & GenAI:** LangChain, Gemini API, Qdrant, RAG Architecture  
 **Tools:** Git, Docker, Streamlit  
 
